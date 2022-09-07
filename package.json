@@ -1,0 +1,12 @@
+{
+  "name": "appscriptswithapis",
+  "version": "1.0.0",
+  "description": "A collection of AppScripts used with Google sheets, each script connects to an external API.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
